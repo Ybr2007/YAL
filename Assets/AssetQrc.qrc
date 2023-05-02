@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/TitleBar/CloseIcon.svg</file>
+        <file>Icons/TitleBar/MaximizeIcon.svg</file>
+        <file>Icons/TitleBar/MinimizeIcon.svg</file>
+        <file>Icons/TitleBar/UnmaximizeIcon.svg</file>
+        <file>Icons/Logo.svg</file>
+    </qresource>
+</RCC>

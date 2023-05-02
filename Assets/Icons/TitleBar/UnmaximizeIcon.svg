@@ -1,0 +1,13 @@
+<svg width="46.000000" height="46.000000" viewBox="0 0 46 46" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<g clip-path="url(#clip6_23)">
+		<path id="UnmaximizeIcon" d="M34.1379 10C34.6902 10 35.1379 10.4477 35.1379 11L35.1379 28.8276C35.1379 29.3799 34.6902 29.8276 34.1379 29.8276L30.8276 29.8276L30.8276 34C30.8276 34.5523 30.3799 35 29.8276 35L12 35C11.4477 35 11 34.5523 11 34L11 16.1724C11 15.6201 11.4477 15.1724 12 15.1724L15.3103 15.1724L15.3103 11C15.3103 10.4477 15.7581 10 16.3103 10L34.1379 10ZM16.3103 15.1724L29.8276 15.1724C30.3799 15.1724 30.8276 15.6201 30.8276 16.1724L30.8276 28.8276L34.1379 28.8276L34.1379 11L16.3103 11L16.3103 15.1724L16.3103 15.1724ZM29.8276 34L29.8276 16.1724L12 16.1724L12 34L29.8276 34Z" clip-rule="evenodd" fill-rule="evenodd" fill="#FFFFFF" fill-opacity="1.000000"/>
+	</g>
+	<defs>
+		<clipPath id="clip6_23">
+			<rect id="UnmaximizeIcon" width="46.000000" height="46.000000" fill="white"/>
+		</clipPath>
+	</defs>
+</svg>

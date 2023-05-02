@@ -1,0 +1,4 @@
+.my_py_cache
+.vscode
+__pycache__
+user_data.json

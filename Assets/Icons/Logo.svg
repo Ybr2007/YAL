@@ -1,0 +1,48 @@
+<svg width="160.000000" height="160.000000" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<path id="减去顶层" d="M97.3091 57.7309L34.0428 23.523L25.9572 38.477L88.9787 72.5526C90.407 66.8701 93.3315 61.7817 97.3091 57.7309Z" clip-rule="evenodd" fill-rule="evenodd" fill="url(#paint_linear_9_29_0)" fill-opacity="1.000000"/>
+	<ellipse id="椭圆 1" cx="37.499992" cy="32.500000" rx="32.499992" ry="32.500000" fill="url(#paint_radial_8_23_0)"/>
+	<ellipse id="椭圆 1" cx="37.499992" cy="32.500000" rx="32.499992" ry="32.500000" fill="#FFFFFF" fill-opacity="0.15"/>
+	<ellipse id="椭圆 1" cx="37.499992" cy="32.500000" rx="31.999992" ry="32.000000" stroke="url(#paint_angular_8_23_1)"/>
+	<ellipse id="椭圆 1" cx="120.499985" cy="79.500000" rx="32.499992" ry="32.500000" fill="url(#paint_linear_9_27_0)"/>
+	<ellipse id="椭圆 1" cx="120.499985" cy="79.500000" rx="31.999992" ry="32.000000" stroke="url(#paint_angular_9_27_1)"/>
+	<path id="减去顶层" d="M88.4415 89.7605L17.3325 129.502L25.6261 144.342L96.7351 104.6L88.4415 89.7605Z" clip-rule="evenodd" fill-rule="evenodd" fill="url(#paint_linear_9_30_0)" fill-opacity="1.000000"/>
+	<ellipse id="椭圆 1" cx="37.379936" cy="123.379959" rx="28.127918" ry="28.127930" transform="rotate(115 37.3799 123.38)" fill="url(#paint_radial_9_33_0)"/>
+	<ellipse id="椭圆 1" cx="37.379936" cy="123.379959" rx="27.627918" ry="27.627930" transform="rotate(115 37.3799 123.38)" stroke="url(#paint_angular_9_33_1)"/>
+	<defs>
+		<linearGradient id="paint_linear_9_29_0" x1="44.000008" y1="40.499996" x2="97.309082" y2="72.552612" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF" stop-opacity="0.000000"/>
+			<stop offset="1.000000" stop-color="#FFFFFF"/>
+		</linearGradient>
+		<radialGradient id="paint_radial_8_23_0" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(37.5 32.5) rotate(90) scale(32.5 32.5)">
+			<stop stop-color="#7D60EA"/>
+			<stop offset="0.687023" stop-color="#6666FF"/>
+		</radialGradient>
+		<radialGradient id="paint_angular_8_23_1" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(36.7262 36.369) rotate(126.119) scale(35.4435 35.4435)">
+			<stop stop-color="#FFFFFF" stop-opacity="0.858824"/>
+			<stop offset="0.801527" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+		<linearGradient id="paint_linear_9_27_0" x1="140.000000" y1="54.499943" x2="103.500000" y2="106.000000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ABABAB"/>
+			<stop offset="1.000000" stop-color="#494949"/>
+		</linearGradient>
+		<radialGradient id="paint_angular_9_27_1" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(119.726 83.369) rotate(126.119) scale(35.4435 35.4435)">
+			<stop stop-color="#FFFFFF" stop-opacity="0.858824"/>
+			<stop offset="0.801527" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+		<linearGradient id="paint_linear_9_30_0" x1="33.159859" y1="146.785446" x2="83.440231" y2="195.813019" gradientUnits="userSpaceOnUse">
+			<stop offset="0.286855" stop-color="#FFFFFF"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</linearGradient>
+		<radialGradient id="paint_radial_9_33_0" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(37.3799 123.38) rotate(90) scale(28.1279 28.1279)">
+			<stop offset="0.312977" stop-color="#7D60EA"/>
+			<stop offset="1.000000" stop-color="#536AD7"/>
+		</radialGradient>
+		<radialGradient id="paint_angular_9_33_1" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(36.7102 126.728) rotate(126.119) scale(30.6754 30.6754)">
+			<stop stop-color="#FFFFFF" stop-opacity="0.858824"/>
+			<stop offset="0.801527" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+	</defs>
+</svg>
